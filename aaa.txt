@@ -1,2 +1,2 @@
 aaaaaaaaaa
-master&feature1
+master
